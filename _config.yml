@@ -1,7 +1,7 @@
-title:            Notepad
-description:      "Blogging is fun"
+title:            Clouding...
+description:      "一个只有13岁的小孩:)"
 logo:             logo.png
-disqus_shortname: hmfaysal
+disqus_shortname: 
 share:            true
 dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -11,19 +11,18 @@ url:        	  /Notepad
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
-  avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  name:           萌小喵
+  avatar:         https://s2.ax1x.com/2020/02/24/334wCD.th.png
+  email:          northy360@126.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    C++
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
+  twitter:        
+  facebook:       
+  github:         momonorthy    
+  instagram:      
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
-
+  google_plus:   
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-39365944-7
 google_verify:      
@@ -43,6 +42,8 @@ links:
     url: /categories
   - title: About
     url: /about
+  - title: Baidu Tieba
+    url: http://tieba.baidu.com/home/main?un=momoNorthy&ie=utf-8&id=tb.1.315394b2.xCz_9DCp_KgD61pAPNP_Tw&fr=pb&ie=utf-8&statsInfo=pb_user_lc
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Dhaka
