@@ -25,3 +25,8 @@ If you'd like to give me credit somewhere on your blog or tweet a shout out to [
 
 Warm Regards and Stay Creative,  
 Hossain Mohd. Faysal
+
+下面我们一起来学习GFM。
+
+
+*[GFM]: GitHub Flavored Markdown
